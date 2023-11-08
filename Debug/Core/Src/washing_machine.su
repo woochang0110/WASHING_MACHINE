@@ -1,0 +1,4 @@
+../Core/Src/washing_machine.c:73:6:washing_machine_running	8	static
+../Core/Src/washing_machine.c:152:6:washing_machine_sensing	96	static
+../Core/Src/washing_machine.c:613:6:washing_machine_processing	8	static
+../Core/Src/washing_machine.c:620:6:wm_ledbar_display	8	static

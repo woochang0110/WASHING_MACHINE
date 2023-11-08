@@ -1,0 +1,8 @@
+dht11.c:30:6:DHT11_main	1
+dht11.c:66:6:DHT11_processing	3
+dht11.c:110:6:DHT11_Init	1
+dht11.c:120:6:DHT11_trriger	1
+dht11.c:131:6:DHT11_DataLine_Input	1
+dht11.c:145:6:DHT11_DataLine_Output	1
+dht11.c:160:9:DHT11_rx_Data	5
+dht11.c:188:6:DHT11_dumi_read	4
