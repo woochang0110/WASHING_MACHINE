@@ -1,0 +1,4 @@
+washing_machine.c:73:6:washing_machine_running	5
+washing_machine.c:152:6:washing_machine_sensing	42
+washing_machine.c:613:6:washing_machine_processing	1
+washing_machine.c:620:6:wm_ledbar_display	4

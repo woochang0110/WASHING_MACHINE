@@ -1,0 +1,2 @@
+../Core/Src/button.c:24:6:lcd_display_mode_select	16	static
+../Core/Src/button.c:54:5:get_button	24	static
