@@ -21,7 +21,7 @@
 
 ## Output
 
-[![HW Circuit](./Documents/HW_CIRCUIT.PNG)]
+[![HW Circuit](./Documents/HW_CIRCUIT.png)]
 
 <br>
 
